@@ -1,0 +1,13 @@
+.quote-list {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .saved-quote {
+    background-color: #272626;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
